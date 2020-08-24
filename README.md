@@ -1,2 +1,2 @@
 # gui-git-pages
-Initial repository for CS3704
+Initial repository for CS3774
